@@ -1,0 +1,9 @@
+pymongo==3.10.1
+dnspython
+PySimpleGUI
+typing
+nltk
+pandas
+numpy
+tqdm
+sklearn
